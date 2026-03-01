@@ -19,7 +19,7 @@ I specialize in turning complex datasets into actionable insights using Machine 
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[Faiza Memon]&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiza335&show_icons=true&theme=radical)
 
 ---
 
